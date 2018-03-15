@@ -1,0 +1,1 @@
+# springHibernate4GenericDao
